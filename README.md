@@ -1,2 +1,2 @@
-# math-ques1
+# math-quest1
 1st question
